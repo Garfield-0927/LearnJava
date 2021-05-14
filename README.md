@@ -7,3 +7,5 @@
 - Chapter 4: Usage of innate Math Function & Usage of String
 - Chapter 5: Loop introduction
 - Chapter 6: Method
+- Chapter 7: Array
+
