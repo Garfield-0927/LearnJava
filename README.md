@@ -9,3 +9,4 @@
 - Chapter 6: Method
 - Chapter 7: Array
 
+- Chapter 9: Object & Class
