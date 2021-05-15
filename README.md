@@ -8,5 +8,7 @@
 - Chapter 5: Loop introduction
 - Chapter 6: Method
 - Chapter 7: Array
-
 - Chapter 9: Object & Class
+- Chapter 10: Basic introduction of OOP(Object-Oriented-Programming)
+- Chapter 11: Inheritance and Polymorphism
+
