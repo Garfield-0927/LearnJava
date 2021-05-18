@@ -11,5 +11,6 @@
 - Chapter 9: Object & Class
 - Chapter 10: Basic introduction of OOP(Object-Oriented-Programming)
 - Chapter 11: Inheritance and Polymorphism
-
 - Chapter 12: Exception process
+- Chapter 19: Generics
+- Chapter 30: MutiThread
