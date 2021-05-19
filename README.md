@@ -13,4 +13,4 @@
 - Chapter 11: Inheritance and Polymorphism
 - Chapter 12: Exception process
 - Chapter 19: Generics
-- Chapter 30: MutiThread
+- Chapter 30: Multi-Thread
